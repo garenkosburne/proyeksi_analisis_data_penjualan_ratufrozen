@@ -1,6 +1,7 @@
 # Proyeksi Analisis Data Penjualan Ratu Frozen
 
 ## Informasi Umum
+
 **Nama Toko**: Ratu Frozen
 **Alamat Toko** : Jl. Semen Kujang perumahan Pesona Kahuripan 3 Tahap 4 Jl. Anggrek 10 Blok i7-02 Desa. Cikahuripan, Kec. Klapanunggal, Kab. Bogor
 **Email**: ratufrozenofficial@gmail.com
