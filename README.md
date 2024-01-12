@@ -6,7 +6,7 @@
 **Alamat Toko** : Jl. Semen Kujang perumahan Pesona Kahuripan 3 Tahap 4 Jl. Anggrek 10 Blok i7-02 Desa. Cikahuripan, Kec. Klapanunggal, Kab. Bogor
 **Email**: ratufrozenofficial@gmail.com
 
-##Deskripsi Proyek
+## Deskripsi Proyek
 Projek ini berfokus pada analisis data penjualan frozen food di desa Cikahuripan untuk mendapatkan wawasan mengenai pola dan tren penjualan frozen food berdasarkan minat beli frozen, harga, tiap bulan serta minat beli berdasarkan jenis frozennya. tiga dataset utama yang digunakan adalah `product_dataset_ratufrozen.csv`,`stock_dataset_ratufrozen.csv` dan `sales_dataset_ratufrozen.csv`, yang berisi data penjualan.
 
 ## Pertanyaan Bisnis
