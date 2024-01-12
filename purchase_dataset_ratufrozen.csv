@@ -1,0 +1,268 @@
+purchase_id,Category_Name,Item Name,Weight,Manufacturer_Name,Date,Quantity,Price,Discount,Total,Purchase_By
+1,Food,Champ Chicken Sausage ,375g,Shoppe ,1/11/2024,2,16643,0,"33,286.00",Ringga Setiadi
+2,Food,Pelangi Donuts ,330g,Shoppe ,1/11/2024,2,14943,0,"29,886.00",Ringga Setiadi
+3,Food,Cedea Fish Dumpling Chicken ,200g,Shoppe ,1/11/2024,2,13243,0,"26,486.00",Ringga Setiadi
+4,Food,Cedea Chikuwa Mini ,250g,Shoppe ,1/11/2024,1,14843,0,"14,843.00",Ringga Setiadi
+5,Food,Vigo Sosis Bakar ,550g,Shoppe ,1/10/2024,5,22143,0,"110,715.00",Ringga Setiadi
+6,Food,Cedea Fish Roll ,1Kg,Shoppe ,1/10/2024,2,48643,0,"97,286.00",Ringga Setiadi
+7,Food,So Nice Ayam ,1Kg,NSS,1/9/2024,6,25900,0,"155,400.00",Ringga Setiadi
+8,Food,Mydibel Shoe String ,1Kg,NSS,1/9/2024,10,33000,0,"330,000.00",Ringga Setiadi
+9,Food,Sosis Kimbo Cheese Bratwurst ,500g,NSS,1/9/2024,14,26714,0,"373,996.00",Ringga Setiadi
+10,Food,Hemato Burger Sapi ,250g,NSS,1/9/2024,25,8575,0,"214,375.00",Ringga Setiadi
+11,Bumbu Dapur,Mayonnaise Mamayo ,1Kg,NSS,1/9/2024,12,22375,0,"268,500.00",Ringga Setiadi
+12,Food,Cheese Mozarella Zayco313 ,313g,Shoppe ,1/8/2024,1,30833,0,"30,833.00",Ringga Setiadi
+13,Food,Kanzler Crispy Chicken ,450g,Shoppe ,1/8/2024,1,37433,0,"37,433.00",Ringga Setiadi
+14,Food,Cedea Fish Roll ,500g,Shoppe ,1/8/2024,1,25033,0,"25,033.00",Ringga Setiadi
+15,Food,Yona Beef Patties ,500g,Shoppe ,1/5/2024,1,34183,0,"34,183.00",Ringga Setiadi
+16,Food,Teman Laut Bakso Udang ,200g,Shoppe ,1/5/2024,4,8084,0,"32,336.00",Ringga Setiadi
+17,Food,Teman Laut Bakso Ikan ,200g,Shoppe ,1/5/2024,4,8083,0,"32,332.00",Ringga Setiadi
+18,Food,Cedea Ikan Olahan Flower Twister ,500g,Shoppe ,1/5/2024,1,24083,0,"24,083.00",Ringga Setiadi
+19,Food,Cedea Chikuwa Mini ,250g,Shoppe ,1/5/2024,1,14783,0,"14,783.00",Ringga Setiadi
+20,Food,Cedea Fish Roll ,250g,Shoppe ,1/5/2024,1,12933,0,"12,933.00",Ringga Setiadi
+21,Food,UENAAAK Sosis Ayam,70g,Belfoods,1/4/2024,5,3350,0,"16,750.00",Ringga Setiadi
+22,Food,BF Nugget Ceria ,170g,Belfoods,1/4/2024,5,10000,0,"50,000.00",Ringga Setiadi
+23,Food,Crunchy Nugget ,140g,Belfoods,1/4/2024,5,10000,0,"50,000.00",Ringga Setiadi
+24,Food,Royal Hongdae Chicken ,200g,Belfoods,1/4/2024,2,28150,0,"56,300.00",Ringga Setiadi
+25,Food,Royal Gangnam Chicken ,200g,Belfoods,1/4/2024,3,32300,0,"96,900.00",Ringga Setiadi
+26,Food,Royal Cordon Bleu ,250g,Belfoods,1/4/2024,3,34500,0,"103,500.00",Ringga Setiadi
+27,Food,Sunfish Fish Roll ,250g,Shoppe ,1/2/2024,1,11872,0,"11,872.00",Ringga Setiadi
+28,Food,Sunfish Chikuwa Mini ,200g,Shoppe ,1/2/2024,1,11172,0,"11,172.00",Ringga Setiadi
+29,Food,Sosis Kimbo Cheese Bratwurst ,500g,Shoppe ,1/2/2024,1,25872,0,"25,872.00",Ringga Setiadi
+30,Food,Kanzler Beef Coktail ,250g,Shoppe ,1/2/2024,2,24572,0,"49,144.00",Ringga Setiadi
+31,Food,Kanzler Crispy Chicken ,450g,Shoppe ,1/2/2024,2,37171,0,"74,342.00",Ringga Setiadi
+32,Food,Hemato Burger Sapi ,250g,Shoppe ,1/2/2024,3,8971,0,"26,913.00",Ringga Setiadi
+33,Food,Cedea Fish Dumpling Cheese ,200g,Shoppe ,1/2/2024,1,13621,0,"13,621.00",Ringga Setiadi
+34,Food,Cedea Fish Dumpling Chicken ,200g,Shoppe ,1/2/2024,1,13621,0,"13,621.00",Ringga Setiadi
+35,Bumbu Dapur,Mayonnaise Mamayo ,1Kg,Shoppe ,1/2/2024,2,22272,0,"44,544.00",Ringga Setiadi
+36,Bumbu Dapur,Bamboe Tom Yam ,60g,Citeureup Frozen,12/29/2023,12,8500,0,"102,000.00",Ringga Setiadi
+37,Food,Bakso Warisan AB ,700g,NSS,12/29/2023,10,25250,0,"252,500.00",Ringga Setiadi
+38,Food,Bakso Warisan AB Urat ,700g,NSS,12/29/2023,20,25500,0,"510,000.00",Ringga Setiadi
+39,Food,Fiesta Shoestring ,500g,NSS,12/29/2023,12,17584,0,"211,008.00",Ringga Setiadi
+40,Food,Vigo Sosis Bakar ,550g,NSS,12/29/2023,15,21600,0,"324,000.00",Ringga Setiadi
+41,Food,So Eco Nugget Ayam ,1Kg,NSS,12/29/2023,12,29000,0,"348,000.00",Ringga Setiadi
+42,Food,Vigo Sosis Bakar ,550g,Citeureup Frozen,12/29/2023,20,23000,0,"460,000.00",Ringga Setiadi
+43,Food,So Nice Ayam ,1Kg,Citeureup Frozen,12/29/2023,6,27000,0,"162,000.00",Ringga Setiadi
+44,Food,Shifudo Steamboat ,500g,Citeureup Frozen,12/29/2023,10,28500,0,"285,000.00",Ringga Setiadi
+45,Food,Sosis Kimbo Bratwurst ,500g,Citeureup Frozen,12/29/2023,4,28000,0,"112,000.00",Ringga Setiadi
+46,Food,Bakso Warisan AB Urat ,700g,Citeureup Frozen,12/29/2023,20,25500,0,"510,000.00",Ringga Setiadi
+47,Food,Bakso Warisan Bakar ,350g,Citeureup Frozen,12/29/2023,5,14500,0,"72,500.00",Ringga Setiadi
+48,Food,Mydibel Shoe String ,1Kg,Citeureup Frozen,12/29/2023,2,33500,0,"67,000.00",Ringga Setiadi
+49,Food,So Eco Nugget Ayam ,1Kg,Citeureup Frozen,12/29/2023,12,29167,0,"350,004.00",Ringga Setiadi
+50,Food,UENAAAK Sosis Ayam ,475g,Belfoods,12/27/2023,10,17350,0,"173,500.00",Ringga Setiadi
+51,Food,BF Nugget Ceria ,170g,Belfoods,12/27/2023,10,9500,0,"95,000.00",Ringga Setiadi
+52,Food,Crunchy Nugget ,140g,Belfoods,12/27/2023,10,9500,0,"95,000.00",Ringga Setiadi
+53,Food,Royal Cordon Bleu ,250g,Belfoods,12/27/2023,1,32775,0,"32,775.00",Ringga Setiadi
+54,Food,Royal Golden Fillet ,250g,Belfoods,12/27/2023,3,25413,0,"76,239.00",Ringga Setiadi
+55,Food,Bakso Warisan AB ,700g,Shoppe ,12/20/2023,2,25454,0,"50,908.00",Ringga Setiadi
+56,Food,Bakso Warisan AB Urat ,700g,Shoppe ,12/20/2023,6,25943,0,"155,658.00",Ringga Setiadi
+57,Food,Kanzler Crispy Chicken ,450g,Shoppe ,12/20/2023,1,37383,0,"37,383.00",Ringga Setiadi
+58,Food,Fiesta Shoestring ,500g,Shoppe ,12/20/2023,1,17803,0,"17,803.00",Ringga Setiadi
+59,Food,Teman Laut Bakso Ikan ,200g,Shoppe ,12/20/2023,2,7828,0,"15,656.00",Ringga Setiadi
+60,Food,Vigo Sosis Bakar ,550g,Shoppe ,12/19/2023,8,22577,0,"180,616.00",Ringga Setiadi
+61,Food,So Eco Nugget Ayam ,1Kg,Shoppe ,12/19/2023,5,28407,0,"142,035.00",Ringga Setiadi
+62,Food,Sunfish Chicken Dumpling ,200g,Shoppe ,12/18/2023,3,11291,0,"33,873.00",Ringga Setiadi
+63,Food,Gogo Shoestring ,1Kg,Shoppe ,12/18/2023,1,28391,0,"28,391.00",Ringga Setiadi
+64,Food,Cedea Fish Dumpling Cheese ,200g,Shoppe ,12/18/2023,2,13091,0,"26,182.00",Ringga Setiadi
+65,Food,Cedea Crab Stick ,250g,Shoppe ,12/18/2023,2,14131,0,"28,262.00",Ringga Setiadi
+66,Food,Egg Chicken Roll ,250g,Shoppe ,12/18/2023,3,18091,0,"54,273.00",Ringga Setiadi
+67,Food,Beef Coctail ,190g,Belfoods,12/14/2023,1,17000,0,"17,000.00",Ringga Setiadi
+68,Food,BF Nugget Ceria ,170g,Belfoods,12/14/2023,2,9500,0,"19,000.00",Ringga Setiadi
+69,Food,Crunchy Nugget ,140g,Belfoods,12/14/2023,5,9500,0,"47,500.00",Ringga Setiadi
+70,Food,Royal Beef Frank Sausage ,200g,Belfoods,12/14/2023,1,26950,0,"26,950.00",Ringga Setiadi
+71,Food,Royal Hongdae Chicken ,200g,Belfoods,12/14/2023,3,26743,0,"80,229.00",Ringga Setiadi
+72,Food,Royal Busan Chicken Wings ,200g,Belfoods,12/14/2023,2,26743,0,"53,486.00",Ringga Setiadi
+73,Food,Royal Gangnam Chicken ,200g,Belfoods,12/14/2023,4,30685,0,"122,740.00",Ringga Setiadi
+74,Food,Royal Golden Fillet ,250g,Belfoods,12/14/2023,2,25413,0,"50,826.00",Ringga Setiadi
+75,Food,Beef Slice teriyaki premium ,500g,Shoppe ,12/12/2023,4,57375,0,"229,500.00",Ringga Setiadi
+76,Food,Bakso Warisan AB Urat ,700g,Shoppe ,12/12/2023,4,26325,0,"105,300.00",Ringga Setiadi
+77,Food,So Eco Nugget Ayam ,1Kg,Shoppe ,12/5/2023,6,30853,0,"185,118.00",Ringga Setiadi
+78,Food,Bakso Warisan AB Urat ,700g,Shoppe ,12/5/2023,10,26788,0,"267,880.00",Ringga Setiadi
+79,Food,Fiesta Crinkle Cut ,500g,Shoppe ,12/1/2023,1,20567,0,"20,567.00",Ringga Setiadi
+80,Food,Cedea Fish Dumpling Chicken ,200g,Shoppe ,12/1/2023,1,13617,0,"13,617.00",Ringga Setiadi
+81,Food,Bakso Warisan AB ,700g,Shoppe ,12/1/2023,2,26267,0,"52,534.00",Ringga Setiadi
+82,Food,Bakso Warisan AB Urat ,700g,Shoppe ,12/1/2023,3,26267,0,"78,801.00",Ringga Setiadi
+83,Food,Cedea Fish Dumpling Cheese ,200g,Shoppe ,12/1/2023,1,13617,0,"13,617.00",Ringga Setiadi
+84,Food,Fiesta Shoestring ,500g,Shoppe ,12/1/2023,2,18567,0,"37,134.00",Ringga Setiadi
+85,Food,Nidia Sosis Sapi ,500g,Shoppe ,12/1/2023,5,22767,0,"113,835.00",Ringga Setiadi
+86,Food,Sunfish Crab Stick ,250g,Shoppe ,11/27/2023,1,13342,0,"13,342.00",Ringga Setiadi
+87,Food,Bakso Tomyam Ikan Mix ,500g,Shoppe ,11/27/2023,1,25342,0,"25,342.00",Ringga Setiadi
+88,Food,Sunfish Fish Roll ,250g,Shoppe ,11/27/2023,4,11642,0,"46,568.00",Ringga Setiadi
+89,Food,Donat Kentang 3D Mini ,500g,Shoppe ,11/27/2023,1,15792,0,"15,792.00",Ringga Setiadi
+90,Food,Nidia Sosis Sapi ,500g,Shoppe ,11/27/2023,6,22542,0,"135,252.00",Ringga Setiadi
+91,Food,Vigo Sosis Bakar,550g,Shoppe ,11/27/2023,5,21842,0,"109,210.00",Ringga Setiadi
+92,Food,Kanzler Crispy Chicken ,450g,Shoppe ,11/27/2023,2,36942,0,"73,884.00",Ringga Setiadi
+93,Food,Bakso Warisan AB Urat ,700g,Shoppe ,11/27/2023,2,26042,0,"52,084.00",Ringga Setiadi
+94,Food,Bakso Warisan AB ,700g,Shoppe ,11/27/2023,2,26042,0,"52,084.00",Ringga Setiadi
+95,Food,Kanzler Beef Coktail ,250g,Shoppe ,11/27/2023,2,24342,0,"48,684.00",Ringga Setiadi
+96,Food,Champ Chicken Nugget ,250g,Shoppe ,11/27/2023,2,18742,0,"37,484.00",Ringga Setiadi
+97,Food,Sunfish Chikuwa Mini ,200g,Shoppe ,11/27/2023,1,10942,0,"10,942.00",Ringga Setiadi
+98,Food,BFI Kentang Goreng Shoestring ,200g,Belfoods,11/23/2023,4,9051,0,"36,204.00",Ringga Setiadi
+99,Food,FAVORITE CHICKEN STICK ,250g,Belfoods,11/23/2023,12,14934,0,"179,208.00",Ringga Setiadi
+100,Food,UENAK Sosis Ayam ,75g,Belfoods,11/23/2023,4,3350,0,"13,400.00",Ringga Setiadi
+101,Food,UENAK NUGGET S ,500g,Belfoods,11/23/2023,6,18500,0,"111,000.00",Ringga Setiadi
+102,Food,UENAK Small Nugget ,250g,Belfoods,11/23/2023,6,9956,0,"59,736.00",Ringga Setiadi
+103,Food,BAKSO AYAM SP ,100g,Belfoods,11/23/2023,4,9051,0,"36,204.00",Ringga Setiadi
+104,Food,SOSIS AYAM SP ,200g,Belfoods,11/23/2023,6,9051,0,"54,306.00",Ringga Setiadi
+105,Food,BF Nugget Ceria ,170g,Belfoods,11/23/2023,12,9051,0,"108,612.00",Ringga Setiadi
+106,Food,NUGGET SP ,170g,Belfoods,11/23/2023,12,9051,0,"108,612.00",Ringga Setiadi
+107,Food,FAVORITE Chicken Nugget ,250g,Belfoods,11/23/2023,12,14934,0,"179,208.00",Ringga Setiadi
+108,Food,UENAAAK Chicken Stick ,250g,Belfoods,11/23/2023,6,9956,0,"59,736.00",Ringga Setiadi
+109,Food,UENAAAK Sosis Bakar ,475g,Belfoods,11/23/2023,6,22537,0,"135,222.00",Ringga Setiadi
+110,Food,ROYAL NUGGET S ,470g,Belfoods,11/23/2023,3,41900,0,"125,700.00",Ringga Setiadi
+111,Food,UENAAAK Sosis Ayam ,475g,Belfoods,11/23/2023,6,17350,0,"104,100.00",Ringga Setiadi
+112,Food,UENAAAK Sosis Ayam ,345g,Belfoods,11/23/2023,6,13350,0,"80,100.00",Ringga Setiadi
+113,Food,Royal Golden Fillet ,250g,Belfoods,11/23/2023,3,26750,0,"80,250.00",Ringga Setiadi
+114,Food,Mix Vegetable Frozenland ,1Kg,Citeureup Frozen,11/19/2023,1,20269,0,"20,269.00",Ringga Setiadi
+115,Food,So Eco Nugget Ayam ,1Kg,Citeureup Frozen,11/19/2023,12,29269,0,"351,228.00",Ringga Setiadi
+116,Food,So Eco Nugget Ayam ,1Kg,Shoppe ,11/16/2023,3,30269,0,"90,807.00",Ringga Setiadi
+117,Food,Gogo Shoestring ,500g,Shoppe ,11/16/2023,2,27569,0,"55,138.00",Ringga Setiadi
+118,Food,Delimax Smoke Beef ,200g,Shoppe ,11/16/2023,1,17469,0,"17,469.00",Ringga Setiadi
+119,Food,Champ Chicken Sausage ,375g,Shoppe ,11/16/2023,2,16569,0,"33,138.00",Ringga Setiadi
+120,Food,Akumo Ayam ,250g,Shoppe ,11/16/2023,5,11769,0,"58,845.00",Ringga Setiadi
+121,Food,Akumo Ayam ,250g,Shoppe ,11/13/2023,4,11600,0,"46,400.00",Ringga Setiadi
+122,Food,Cedea Fish Dumpling Cheese ,200g,Shoppe ,11/13/2023,3,13000,0,"39,000.00",Ringga Setiadi
+123,Food,Sunfish Fish Roll ,250g,Shoppe ,11/13/2023,2,11800,0,"23,600.00",Ringga Setiadi
+124,Food,Roti Bernard Burger ,500g,Shoppe ,11/13/2023,2,12250,0,"24,500.00",Ringga Setiadi
+125,Food,Vitalia Smoke Beef ,250g,Shoppe ,11/13/2023,1,9200,0,"9,200.00",Ringga Setiadi
+126,Food,Mayonnaise Mamayo ,180g,Shoppe ,11/13/2023,4,5800,0,"23,200.00",Ringga Setiadi
+127,Food,Sunfish Chicken Dumpling ,200g,Shoppe ,11/13/2023,2,11200,0,"22,400.00",Ringga Setiadi
+128,Food,Vigo Sosis Bakar ,550g,Shoppe ,11/13/2023,3,22055,0,"66,165.00",Ringga Setiadi
+129,Food,Nidia Sosis Sapi ,500g,Shoppe ,11/13/2023,1,22756,0,"22,756.00",Ringga Setiadi
+130,Food,Gogo Shoestring ,500g,Shoppe ,11/13/2023,2,27556,0,"55,112.00",Ringga Setiadi
+131,Food,Bakso Warisan AB ,700g,Shoppe ,11/13/2023,2,26311,0,"52,622.00",Ringga Setiadi
+132,Food,Bakso Warisan AB Urat ,700g,Shoppe ,11/13/2023,2,26311,0,"52,622.00",Ringga Setiadi
+133,Food,Delimax Smoke Beef ,200g,Shoppe ,11/13/2023,1,17456,0,"17,456.00",Ringga Setiadi
+134,Food,Sunfish Otak-otak ,500g,Shoppe ,11/13/2023,1,19756,0,"19,756.00",Ringga Setiadi
+135,Food,Jamur Enoki ,100g,Citeureup Frozen,11/12/2023,8,3000,0,"24,000.00",Ringga Setiadi
+136,Food,Kanzler Beef Coktail ,250g,Shoppe ,11/3/2023,2,24565,0,"49,130.00",Ringga Setiadi
+137,Food,Champ Chicken Sausage ,375g,Shoppe ,11/3/2023,2,16567,0,"33,134.00",Ringga Setiadi
+138,Food,Fiesta Shoestring ,500g,Shoppe ,11/3/2023,1,18566,0,"18,566.00",Ringga Setiadi
+139,Food,Bakso Warisan AB Urat ,700g,Shoppe ,11/3/2023,3,26267,0,"78,801.00",Ringga Setiadi
+140,Food,Bakso Warisan AB,700g,Shoppe ,11/3/2023,3,26267,0,"78,801.00",Ringga Setiadi
+141,Food,Bakso Tomyam Ikan Mix ,500g,Shoppe ,11/3/2023,1,25567,0,"25,567.00",Ringga Setiadi
+142,Food,Donat Kentang 3D Mini ,500g,Shoppe ,11/3/2023,2,16017,0,"32,034.00",Ringga Setiadi
+143,Food,Delimax Smoke Beef ,200g,Shoppe ,11/3/2023,1,17467,0,"17,467.00",Ringga Setiadi
+144,Food,Mayonnaise Maestro ,80g,Shoppe ,10/31/2023,5,5500,0,"27,500.00",Ringga Setiadi
+145,Food,Mayonnaise Maestro ,100g,Shoppe ,10/31/2023,5,7000,0,"35,000.00",Ringga Setiadi
+146,Food,Kanzler Crispy Chicken ,450g,Shoppe ,10/30/2023,1,37139,0,"37,139.00",Ringga Setiadi
+147,Food,Vigo Sosis Bakar ,550g,Shoppe ,10/30/2023,3,22039,0,"66,117.00",Ringga Setiadi
+148,Food,Kanzler Beef Coktail ,250g,Shoppe ,10/30/2023,2,24539,0,"49,078.00",Ringga Setiadi
+149,Food,Nidia Sosis Sapi ,500g,Shoppe ,10/30/2023,1,22738,0,"22,738.00",Ringga Setiadi
+150,Food,Cedea Fish Dumpling Cheese ,200g,Shoppe ,10/30/2023,2,13588,0,"27,176.00",Ringga Setiadi
+151,Food,Sunfish Fish Roll ,250g,Shoppe ,10/30/2023,1,11838,0,"11,838.00",Ringga Setiadi
+152,Food,Bakso Warisan AB ,700g,Shoppe ,10/30/2023,1,26238,0,"26,238.00",Ringga Setiadi
+153,Food,Bakso Warisan AB Urat ,700g,Shoppe ,10/30/2023,8,26238,0,"209,904.00",Ringga Setiadi
+154,Food,Yona Beef Patties ,500g,Shoppe ,10/30/2023,1,34138,0,"34,138.00",Ringga Setiadi
+155,Food,Delimax Smoke Beef ,200g,Shoppe ,10/30/2023,1,17438,0,"17,438.00",Ringga Setiadi
+156,Food,Roti Burger 88 ,500g,Shoppe ,10/30/2023,2,11538,0,"23,076.00",Ringga Setiadi
+157,Food,Mayonnaise Maestro ,100g,Shoppe ,10/30/2023,2,5500,0,"11,000.00",Ringga Setiadi
+158,Food,So Nice ,250g,Citeureup Frozen,10/27/2023,2,11500,0,"23,000.00",Ringga Setiadi
+159,Food,So Eco Nugget Ayam ,1Kg,Citeureup Frozen,10/27/2023,12,28833,0,"345,996.00",Ringga Setiadi
+160,Food,Sunfish Fish Dumpling Cheese ,500g,Citeureup Frozen,10/27/2023,1,27000,0,"27,000.00",Ringga Setiadi
+161,Food,Gogo Shoestring ,500g,Citeureup Frozen,10/27/2023,2,35000,0,"70,000.00",Ringga Setiadi
+162,Food,Gaspol Roti Burger ,500g,Citeureup Frozen,10/27/2023,1,10500,0,"10,500.00",Ringga Setiadi
+163,Food,Vitalia Smoke Beef ,250g,Citeureup Frozen,10/27/2023,1,10000,0,"10,000.00",Ringga Setiadi
+164,Food,Mayonnaise Mamayo ,180g,Citeureup Frozen,10/27/2023,1,8000,0,"8,000.00",Ringga Setiadi
+165,Food,Jamur Enoki ,100g,Citeureup Frozen,10/27/2023,3,3333,0,"9,999.00",Ringga Setiadi
+166,Food,Yona Beef Patties ,500g,Citeureup Frozen,10/27/2023,2,37500,0,"75,000.00",Ringga Setiadi
+167,Food,Nidia Sosis Sapi ,500g,Shoppe ,10/25/2023,1,22825,0,"22,825.00",Ringga Setiadi
+168,Food,Champ Crunchy Ayam ,225g,Shoppe ,10/25/2023,7,15625,0,"109,375.00",Ringga Setiadi
+169,Food,Donat Kentang 3D Mini ,500g,Shoppe ,10/24/2023,1,16200,0,"16,200.00",Ringga Setiadi
+170,Food,Nidia Sosis Sapi ,500g,Shoppe ,10/24/2023,1,22950,0,"22,950.00",Ringga Setiadi
+171,Food,So Eco Nugget Ayam ,1Kg,Shoppe ,10/24/2023,2,30450,0,"60,900.00",Ringga Setiadi
+172,Drink,Real Good Susu ,50ml,Shoppe ,10/23/2023,20,1038,0,"20,760.00",Ringga Setiadi
+173,Food,Roti Bernard Burger ,500g,Shoppe ,10/23/2023,1,12939,0,"12,939.00",Ringga Setiadi
+174,Food,Yona Smoke Beef ,250g,Shoppe ,10/23/2023,1,25413,0,"25,413.00",Ringga Setiadi
+175,Food,Donat Kentang 3D Mini ,500g,Shoppe ,10/23/2023,1,16061,0,"16,061.00",Ringga Setiadi
+176,Food,Roti Bernard Hot Dog ,250g,Shoppe ,10/23/2023,1,11638,0,"11,638.00",Ringga Setiadi
+177,Food,Sunfish Fish Roll ,250g,Shoppe ,10/23/2023,1,11911,0,"11,911.00",Ringga Setiadi
+178,Food,Vigo Sosis Bakar ,550g,Shoppe ,10/23/2023,1,21611,0,"21,611.00",Ringga Setiadi
+179,Food,So Eco Nugget Ayam ,1Kg,Shoppe ,10/23/2023,1,30311,0,"30,311.00",Ringga Setiadi
+180,Food,Champ Crunchy Ayam ,225g,Shoppe ,10/23/2023,4,15611,0,"62,444.00",Ringga Setiadi
+181,Food,Akumo Ayam ,250g,Shoppe ,10/23/2023,3,11638,0,"34,914.00",Ringga Setiadi
+182,Food,Akumo Ayam ,500g,Shoppe ,10/23/2023,1,22288,0,"22,288.00",Ringga Setiadi
+183,Food,Bakso Warisan AB Urat ,700g,Shoppe ,10/18/2023,1,26259,0,"26,259.00",Ringga Setiadi
+184,Food,Fiesta Shoestring ,500g,Shoppe ,10/18/2023,2,20558,0,"41,116.00",Ringga Setiadi
+185,Food,Cedea Fish Dumpling Cheese ,200g,Shoppe ,10/18/2023,1,13609,0,"13,609.00",Ringga Setiadi
+186,Food,Fish Dumpling Chicken ,200g,Shoppe ,10/18/2023,3,13609,0,"40,827.00",Ringga Setiadi
+187,Food,Champ Chicken Sausage ,375g,Shoppe ,10/18/2023,3,16559,0,"49,677.00",Ringga Setiadi
+188,Food,So Eco Nugget Ayam ,1Kg,Shoppe ,10/18/2023,3,30259,0,"90,777.00",Ringga Setiadi
+189,Food,Fiesta Crispy Crunch Kulit Ayam ,300g,Shoppe ,10/18/2023,1,23858,0,"23,858.00",Ringga Setiadi
+190,Food,Kanzler Crispy Chicken ,450g,Shoppe ,10/18/2023,3,37159,0,"111,477.00",Ringga Setiadi
+191,Food,Hemato Burger Sapi ,250g,Shoppe ,10/13/2023,1,7982,0,"7,982.00",Ringga Setiadi
+192,Food,Fiva Rolade Beef Roll ,400g,Shoppe ,10/13/2023,1,23383,0,"23,383.00",Ringga Setiadi
+193,Food,Cheese Mozarella Zayco313 ,313g,Shoppe ,10/13/2023,3,30582,0,"91,746.00",Ringga Setiadi
+194,Food,Bakso Warisan AB Urat ,700g,Shoppe ,10/13/2023,1,26282,0,"26,282.00",Ringga Setiadi
+195,Food,Bakso Warisan AB,700g,Shoppe ,10/13/2023,2,26282,0,"52,564.00",Ringga Setiadi
+196,Food,Champ Chicken Sausage ,375g,Shoppe ,10/13/2023,1,16582,0,"16,582.00",Ringga Setiadi
+197,Food,Kanzler Crispy Chicken Premium ,450g,Shoppe ,10/13/2023,1,36582,0,"36,582.00",Ringga Setiadi
+198,Food,Kanzler Crispy Chicken ,450g,Shoppe ,10/13/2023,2,37182,0,"74,364.00",Ringga Setiadi
+199,Food,Roti Goreng Coklat Keju ,500g,Shoppe ,10/12/2023,1,16047,0,"16,047.00",Ringga Setiadi
+200,Food,Teman Laut Bakso Ikan ,200g,Shoppe ,10/12/2023,4,8147,0,"32,588.00",Ringga Setiadi
+201,Food,Sunfish Fish Dumpling Cheese ,500g,Shoppe ,10/12/2023,1,25547,0,"25,547.00",Ringga Setiadi
+202,Food,Cedea Fish Dumpling Cheese ,200g,Shoppe ,10/12/2023,1,13046,0,"13,046.00",Ringga Setiadi
+203,Food,Cedea Crab Stick ,250g,Shoppe ,10/12/2023,1,14086,0,"14,086.00",Ringga Setiadi
+204,Food,Kanzler Beef Coktail ,250g,Shoppe ,10/12/2023,3,24547,0,"73,641.00",Ringga Setiadi
+205,Food,Vigo Sosis Bakar ,550g,Shoppe ,10/12/2023,3,22547,0,"67,641.00",Ringga Setiadi
+206,Food,Salam Nugget Ayam ,1Kg,Shoppe ,10/12/2023,1,32047,0,"32,047.00",Ringga Setiadi
+207,Food,Fiesta Crispy Crunch Kulit Ayam ,300g,Shoppe ,10/12/2023,1,23847,0,"23,847.00",Ringga Setiadi
+208,Food,So Nice ,250g,Shoppe ,10/12/2023,5,11196,0,"55,980.00",Ringga Setiadi
+209,Food,Cheese Mozarella Zayco313 ,313g,Shoppe ,10/11/2023,3,30667,0,"92,001.00",Ringga Setiadi
+210,Food,Cedea Bakso Ikan ,500g,Shoppe ,10/11/2023,1,26366,0,"26,366.00",Ringga Setiadi
+211,Food,Bakso Warisan AB ,700g,Shoppe ,10/11/2023,1,26367,0,"26,367.00",Ringga Setiadi
+212,Food,Kanzler Beef Coktail ,250g,Shoppe ,10/11/2023,1,24666,0,"24,666.00",Ringga Setiadi
+213,Food,Cheese Mozarella Zayco313 ,313g,Shoppe ,10/9/2023,2,31591,0,"63,182.00",Ringga Setiadi
+214,Food,Egg Chicken Roll ,250g,Shoppe ,10/9/2023,2,19591,0,"39,182.00",Ringga Setiadi
+215,Food,Kaki Naga Sunfish ,500g,Shoppe ,10/9/2023,1,15990,0,"15,990.00",Ringga Setiadi
+216,Food,Bakso Warisan AB Urat ,700g,Shoppe ,10/9/2023,1,27291,0,"27,291.00",Ringga Setiadi
+217,Food,Kanzler Beef Coktail ,250g,Shoppe ,10/9/2023,2,25591,0,"51,182.00",Ringga Setiadi
+218,Food,Bakso Warisan AB ,700g,Shoppe ,10/9/2023,1,27291,0,"27,291.00",Ringga Setiadi
+219,Food,Kanzler Crispy Chicken Premium ,450g,Shoppe ,10/9/2023,1,37591,0,"37,591.00",Ringga Setiadi
+220,Food,Kanzler Crispy Chicken ,450g,Shoppe ,10/9/2023,1,37391,0,"37,391.00",Ringga Setiadi
+221,Food,Teman Laut Bakso Ikan ,200g,Shoppe ,10/5/2023,1,8966,0,"8,966.00",Ringga Setiadi
+222,Food,Sunfish Fish Roll ,250g,Shoppe ,10/5/2023,1,11867,0,"11,867.00",Ringga Setiadi
+223,Food,Kanzler Beef Coktail ,250g,Shoppe ,10/5/2023,2,24567,0,"49,134.00",Ringga Setiadi
+224,Food,Cedea Fish Roll ,500g,Shoppe ,10/5/2023,1,22267,0,"22,267.00",Ringga Setiadi
+225,Food,Donat Kentang 3D Mini ,500g,Shoppe ,10/5/2023,2,16017,0,"32,034.00",Ringga Setiadi
+226,Food,Bakso Warisan AB,700g,Shoppe ,10/5/2023,3,26266,0,"78,798.00",Ringga Setiadi
+227,Food,Cedea Steamboat Dashi ,300g,Shoppe ,10/5/2023,1,20916,0,"20,916.00",Ringga Setiadi
+228,Food,Ardena Fish Roll ,250g,Shoppe ,10/5/2023,2,12767,0,"25,534.00",Ringga Setiadi
+229,Food,Cedea Fish Dumpling Cheese ,500g,Shoppe ,10/5/2023,2,24117,0,"48,234.00",Ringga Setiadi
+230,Food,Kaki Naga Minaki ,200g,Khansa - Frozen,10/4/2023,1,18000,0,"18,000.00",Ringga Setiadi
+231,Food,Beef Slice teriyaki premium ,500g,Shoppe ,10/4/2023,1,55950,0,"55,950.00",Ringga Setiadi
+232,Food,Sunfish Fish Roll ,250g,Shoppe ,10/4/2023,1,12050,0,"12,050.00",Ringga Setiadi
+233,Food,Bakso Warisan AB ,700g,Khansa - Frozen,10/4/2023,2,27000,0,"54,000.00",Ringga Setiadi
+234,Food,Vigo Sosis Bakar ,550g,Khansa - Frozen,10/4/2023,1,24000,0,"24,000.00",Ringga Setiadi
+235,Food,So Nice Ayam ,1Kg,Khansa - Frozen,10/4/2023,1,28000,0,"28,000.00",Ringga Setiadi
+236,Food,Kanzler Crispy Chicken ,120g,Shoppe ,10/4/2023,1,12150,0,"12,150.00",Ringga Setiadi
+237,Food,Bakso Tomyam Ikan Mix ,500g,Khansa - Frozen,10/4/2023,1,27500,0,"27,500.00",Ringga Setiadi
+238,Food,Cedea Fish Dumpling Cheese ,200g,Shoppe ,10/4/2023,1,13250,0,"13,250.00",Ringga Setiadi
+239,Food,Cedea Fish Roll ,500g,Shoppe ,10/3/2023,1,23289,0,"23,289.00",Ringga Setiadi
+240,Food,Cedea Fish Dumpling Cheese ,200g,Shoppe ,10/3/2023,2,13275,0,"26,550.00",Ringga Setiadi
+241,Food,Cedea Crab Stick ,250g,Shoppe ,10/3/2023,1,14619,0,"14,619.00",Ringga Setiadi
+242,Food,Yona Sosis Sapi ,80g,Shoppe ,10/3/2023,3,5063,0,"15,189.00",Ringga Setiadi
+243,Food,Vigo Sosis Bakar ,550g,Shoppe ,10/3/2023,2,23085,0,"46,170.00",Ringga Setiadi
+244,Food,Kanzler Crispy Chicken ,120g,Shoppe ,10/3/2023,3,12263,0,"36,789.00",Ringga Setiadi
+245,Food,Akumo Ayam ,250g,Shoppe ,10/3/2023,3,12063,0,"36,189.00",Ringga Setiadi
+246,Food,Sunfish Fish Roll ,250g,Shoppe ,10/3/2023,1,12888,0,"12,888.00",Ringga Setiadi
+247,Food,Cedea Fish Dumpling Cheese ,500g,Shoppe ,10/3/2023,1,26889,0,"26,889.00",Ringga Setiadi
+248,Food,Roti Bernard Hot Dog ,250g,Kalisari - Frozen,10/3/2023,1,14000,0,"14,000.00",Ringga Setiadi
+249,Food,Mayonnaise Maestro ,180g,Kalisari - Frozen,10/3/2023,2,10000,0,"20,000.00",Ringga Setiadi
+250,Food,Fiesta Shoestring ,500g,Shoppe ,10/3/2023,1,19588,0,"19,588.00",Ringga Setiadi
+251,Food,Bakso Warisan AB ,700g,Shoppe ,10/3/2023,2,26745,0,"53,490.00",Ringga Setiadi
+252,Food,Bakso Warisan AB ,700g,Kalisari - Frozen,10/3/2023,1,28000,0,"28,000.00",Ringga Setiadi
+253,Food,Otak-Otak Sanjaya ,1Kg,Wulan Frozen Food,10/2/2023,2,18000,0,"36,000.00",Ringga Setiadi
+254,Food,Harmoni Sosis Sapi ,500g,Wulan Frozen Food,10/2/2023,2,31500,0,"63,000.00",Ringga Setiadi
+255,Food,Vigo Sosis Bakar ,550g,Wulan Frozen Food,10/2/2023,2,27000,0,"54,000.00",Ringga Setiadi
+256,Food,Kebab Mini ,250g,Wulan Frozen Food,10/2/2023,2,26000,0,"52,000.00",Ringga Setiadi
+257,Food,So Nice ,750g,Wulan Frozen Food,10/2/2023,2,28000,0,"56,000.00",Ringga Setiadi
+258,Food,Bakso Kumis ,700g,Wulan Frozen Food,10/2/2023,1,44000,0,"44,000.00",Ringga Setiadi
+259,Food,Fiesta Shoestring ,500g,Wulan Frozen Food,10/2/2023,1,23000,0,"23,000.00",Ringga Setiadi
+260,Food,Fiesta Batter Coated ,500g,Wulan Frozen Food,10/2/2023,1,28000,0,"28,000.00",Ringga Setiadi
+261,Food,Mydibel Shoe String ,1Kg,Wulan Frozen Food,10/2/2023,2,35000,0,"70,000.00",Ringga Setiadi
+262,Food,Kanzler Beef Coktail ,250g,Wulan Frozen Food,10/2/2023,1,29000,0,"29,000.00",Ringga Setiadi
+263,Food,Akumo Ayam ,500g,Wulan Frozen Food,10/2/2023,2,24000,0,"48,000.00",Ringga Setiadi
+264,Food,Belfood Ayam ,500g,Wulan Frozen Food,10/2/2023,2,35000,0,"70,000.00",Ringga Setiadi
+265,Food,Champ Crunchy Ayam ,225g,Wulan Frozen Food,10/2/2023,2,15000,0,"30,000.00",Ringga Setiadi
+266,Food,So Nice ,250g,Wulan Frozen Food,10/2/2023,2,12000,0,"24,000.00",Ringga Setiadi
+267,Food,Champ Beef Sausage ,375g,Wulan Frozen Food,10/2/2023,1,34000,0,"34,000.00",Ringga Setiadi
